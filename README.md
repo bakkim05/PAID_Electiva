@@ -1,3 +1,3 @@
 # Procesamiento y Análisis de Imagnes Digitales
-# Instituto Tecnológico de Costa Rica
-# Semestre 2 - 2020
+## Instituto Tecnológico de Costa Rica
+## Semestre 2 - 2020
